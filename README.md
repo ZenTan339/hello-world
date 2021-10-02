@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi World!
+
+Zen here, I like math and video games.
